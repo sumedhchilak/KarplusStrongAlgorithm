@@ -1,16 +1,3 @@
-/**
- * CS312 Assignment 12. 
- *
- * On MY honor, Sumedh Chilakamarri, this programming assignment is MY own work
- * and I have not provided this code to any other student.
- *
- * Student name: Sumedh Chilakamarri
- * UTEID: ssc2536
- * email address: sumedh.chilak@utexas.edu
- * Grader name: Andrew
- * Number of slip days used on this assignment: 0
- *
- */
 public class GuitarString {
 	// The instance variable for numCapacity is created
 	private int numCapacity;
